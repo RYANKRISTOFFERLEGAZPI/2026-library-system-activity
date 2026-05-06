@@ -1,0 +1,16 @@
+{
+    "name": "student/2026-library-system-activity",
+    "description": "lmao",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RYANKRISTOFFERLEGASPI",
+            "email": "07410595@dwc-legazpi.edu"
+        }
+    ],
+    "require": {}
+}
